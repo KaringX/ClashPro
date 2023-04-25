@@ -1,2 +1,2 @@
 # ClashPro
-Coming
+Coming Soon
