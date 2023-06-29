@@ -1,5 +1,5 @@
 # ClashPro
-*  Goal:The goal of crashPro is to become compatible with mainstream VPN applications such as clash, and to create the best VPN application on the entire platform
+*  Goal:The goal of crashPro is to become compatible with mainstream VPN applications such as clash, and to create the best VPN application on all main platforms
 *  Progress: Windows, ios, macos versions released (Windows version refer to the Release page, iOS, MacOS versions: https://testflight.apple.com/join/EaTs0PmN), Linux and Android to be developed
 *  Screenshot
 
