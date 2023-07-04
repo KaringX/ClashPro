@@ -20,8 +20,6 @@ This section describes the various types of information we collect from and abou
  
 ●      Account information. Some services require or allow you to create an account before you can access them. As part of registering for an account, we may collect information such as your name, username, email address, and password.
 
-●      Billing and payment information. In order to purchase a service, you may need to provide to us with details such as billing name, billing contact details (street addresses, email addresses), and payment instrument details.
-
 ●      Identity verification information. Some services require you to verify your identity as part of creating an account to access them. We may collect information such as email addresses for this purpose.
 
 ●      Communications and submissions. You may choose to provide us with information when you communicate with us (e.g. via email for support or to inquire about our services), including when you fill out an online form, respond to surveys, provide feedback, participate in promotions, or submit information through our services.
@@ -56,8 +54,6 @@ We use the information we collect for various purposes described below.
 
 ●      To provide, maintain, troubleshoot, and support our services. We use your information for this purpose on the basis that it is required to fulfill our contractual obligations to you. Examples: using information about how much bandwidth you use and how long you use our services in order to provide the services in accordance with a plan to which you have subscribed; using threat and device information to determine whether certain items pose a potential security threat; using location information to connect you to the nearest and fastest VPN server; and using usage information to troubleshoot a problem you report with our services and to ensure the proper functioning of our services.
 
-●      For billing and payment purposes. We use your information in order to perform billing administration activities and process payments, which are required to fulfill our contractual obligations.
-
 ●      To communicate with users and prospective users. We use your information to communicate with you, including by responding to your requests, and sending you information and updates about our services. We may do this in order to fulfill our contract with you, because you consented to the communication, or because we have a legitimate interest in providing you with information about our services.
 
 ●      To improve our services. We want to offer you the best services and user experiences we can, so we have a legitimate interest in continually improving and optimizing our services. To do so, we use your information to understand how users interact with our services. Examples: we analyze certain usage, device, and diagnostic information to understand aggregated usage trends and user engagement with our services (and, for example, invest in technical infrastructure to better serve regions with increasing user demand); we may use device and threat information to conduct spam, threat, and other scientific research to improve our threat detection capabilities; we review customer feedback to understand what we could be doing better.
@@ -80,8 +76,6 @@ We may disclose your information in the following circumstances:
 ●      In accordance with your instructions or consent. For example, some services may allow you to register an account using a third party account (such as a Google or Microsoft account). If you choose to do so, we will share information with the third party account provider.
 
 ●      Affiliates and third party service providers. To help us provide some aspects of our services, we work with our affiliates and trusted third parties. To protect your data, we enter into appropriate confidentiality and data processing terms with these third parties, review their security practices, and limit information sharing to the scope of what they are helping us with. Examples of activities that third parties help us with include:
-
-○      processing customer payments
 
 ○      providing analytics about our services
 
@@ -142,8 +136,6 @@ We use cookies:
 ●      To store your preferences. Cookies can store your preferences, such as language preferences or whether to pre-fill your username on sign in forms. We may also use them to optimize the content that we show to you.
 
 ●      For analytics. Cookies are used to inform us how users interact with our services so we can, as a legitimate interest, improve how they work (such as what screens or webpages you access, and whether our advertising is effective).
-
-●      For security. Cookies can enable us and our payment processors to detect certain kinds of fraud.
 
 ●      For advertising-related purposes. We advertise our services online with the help of third parties who show ads and marketing about us on sites around the internet.
 
@@ -270,7 +262,7 @@ You may also have the right to receive information about the financial incentive
 
 Certain information may be exempt from such requests under applicable law. For example, we need certain types of information so that we can provide the services to you and for compliance with applicable law.
 
-When you exercise certain rights, we may take reasonable steps to authenticate your identity before fulfilling your request (such as verifying your email address or payment instrument). If you ask us to delete certain information, you may no longer be able to access or use our services.
+When you exercise certain rights, we may take reasonable steps to authenticate your identity before fulfilling your request (such as verifying your email address ). If you ask us to delete certain information, you may no longer be able to access or use our services.
 
 You are also permitted to designate an authorized agent to submit certain requests on your behalf. In order for an authorized agent to be verified, you must provide the authorized agent with a signed, written permission to make such requests, or a power of attorney. We may also follow up with you to verify your identity before processing the authorized agent’s request. 
 
@@ -294,8 +286,6 @@ Categories of Personal Information Collected and with Whom we Share It
 ●      Identifiers (such as name, account username, email address)
 
 ●      Commercial information (such as transaction data)
-
-●      Financial and transactional data (such as payment instrument details)
 
 ●      Internet or other network or device activity (such as app usage and interactions with our services)
 
@@ -328,8 +318,6 @@ Categories of Business & Commercial Purposes for Which We Use Your Personal Info
 The categories of personal information collected, as described above, are used for the following categories of purposes:
 
 ●      To provide, maintain, troubleshoot, and support our services.
-
-●      For billing and payment purposes.
 
 ●      To communicate with users and prospective users.
 
