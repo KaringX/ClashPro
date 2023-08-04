@@ -11,3 +11,12 @@
 - [ ] Support Android
 - [ ] Support Linux
 - [ ] Support tvOS
+
+# Thanks To
+- https://github.com/Dreamacro/clash
+- https://github.com/MetaCubeX/Clash.Meta
+- https://github.com/lazytiger/trojan-rs
+- https://github.com/Qv2ray/v2ray-rust
+- https://github.com/X-dea/flutter_vpn
+- https://github.com/eycorsican/leaf
+- https://github.com/shadowsocks/shadowsocks-rust
