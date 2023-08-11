@@ -1,6 +1,6 @@
 # ClashPro
 *  Goal:The goal of crashPro (based on leaf and flutter) is to become compatible with mainstream VPN applications such as clash, and to create the best VPN application on all main platforms
-*  Progress: Windows, ios, macos(Support intel and m series processors) versions released, Linux and Android to be developed
+*  Progress: Windows, ios, macos(Support Intel and Apple Silicon(M series) processors) versions released, Linux and Android to be developed
 *  iOS, MacOS: Testflight https://testflight.apple.com/join/EaTs0PmN
 *  Windows:https://github.com/ClashForIOS/ClashPro/releases
 *  Screenshot (Windows version)
