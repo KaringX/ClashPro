@@ -6,12 +6,13 @@
 *  Screenshot (Windows version)
 
 
-
-<img width="315" alt="20230810160729" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/0ae2041d-cce2-47e2-9852-71646d067cad">
-<img width="315" alt="20230810160838" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/c0794f45-ea3c-49dd-8c7b-fa29bf81c98b">
-<img width="315" alt="20230810160925" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/54ef3ddf-ab4d-4150-b048-9cdc0cb7e061">
-<img width="315" alt="20230810160802" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/b7d1e1e9-c8a9-4758-b791-b3a9de73d24b">
+<img width="305" alt="1692587781661" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/b9cc53be-9e1a-4a30-af2d-6f49ec47b574">
+<img width="304" alt="1692587899700" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/8904c8df-dc7e-409b-b9fe-bdcdf13b37fa">
+<img width="304" alt="1692587964562" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/7cb4d5e4-9d46-41a8-b2ea-76fdc1ebc1a3">
+<img width="304" alt="1692587938833" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/c8cb1e84-8daa-46db-b9e0-ec8f6b380fc8">
 <img width="315" alt="20230810160907" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/5a0a64f8-a544-4d77-8a74-482b225fbe2d">
+
+
 
 # TODO
 - [ ] Support Android
