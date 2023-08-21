@@ -10,7 +10,8 @@
 <img width="304" alt="1692587899700" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/8904c8df-dc7e-409b-b9fe-bdcdf13b37fa">
 <img width="304" alt="1692587964562" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/7cb4d5e4-9d46-41a8-b2ea-76fdc1ebc1a3">
 <img width="304" alt="1692587938833" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/c8cb1e84-8daa-46db-b9e0-ec8f6b380fc8">
-<img width="315" alt="20230810160907" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/5a0a64f8-a544-4d77-8a74-482b225fbe2d">
+<img width="304" alt="1692588005046" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/05a4669a-8191-4245-9ffe-eab70792b0e3">
+
 
 
 
