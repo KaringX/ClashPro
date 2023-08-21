@@ -6,9 +6,9 @@
 *  Screenshot (Windows version)
 
 
-<img width="305" alt="1692587781661" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/b9cc53be-9e1a-4a30-af2d-6f49ec47b574">
-<img width="304" alt="1692587899700" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/8904c8df-dc7e-409b-b9fe-bdcdf13b37fa">
-<img width="304" alt="1692587964562" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/7cb4d5e4-9d46-41a8-b2ea-76fdc1ebc1a3">
+<img width="305" alt="1692589698687" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/e1426457-5b49-4b89-9778-72aa55dda2ac">
+<img width="305" alt="1692589748031" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/157c0992-e886-40a2-9914-4ae1648214d8">
+<img width="305" alt="1692589776489" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/6401299b-733d-4cfc-84a7-a538fd43cc23">
 <img width="304" alt="1692587938833" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/c8cb1e84-8daa-46db-b9e0-ec8f6b380fc8">
 <img width="304" alt="1692588005046" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/05a4669a-8191-4245-9ffe-eab70792b0e3">
 
