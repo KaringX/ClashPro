@@ -6,7 +6,7 @@
 *  Windows:https://github.com/ClashForIOS/ClashPro/releases
 *  Screenshot (Windows version)
 
-*Note: If you receive a TestFlight invitation but do not install it, or do not use the app after installation, you may be cleared from the test list (cannot be updated after clearing)
+*Note: If you receive a TestFlight invitation but do not install it, or do not use the app after installation, you may be removed from the test list (cannot be updated after clearing)
 
 <img width="305" alt="1692589698687" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/e1426457-5b49-4b89-9778-72aa55dda2ac">
 <img width="305" alt="1692589748031" src="https://github.com/ClashForIOS/ClashPro/assets/131734194/157c0992-e886-40a2-9914-4ae1648214d8">
