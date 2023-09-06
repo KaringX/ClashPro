@@ -4,6 +4,7 @@
 *  iOS, MacOS: (ClashProTF) TestFlight https://testflight.apple.com/join/TIygdVem (https://testflight.apple.com/join/EaTs0PmN Unable to continue updating, obsolete)
 *  iOS, MacOS: (ClashPro) AppStore https://apps.apple.com/us/app/clashpro/id6450642232
 *  Windows:https://github.com/ClashForIOS/ClashPro/releases
+*  Wiki:https://clashforios.wiki/
 *  Screenshot (Windows version)
 
 *Note: If you receive a TestFlight invitation but do not install it, or do not use the app after installation, you may be removed from the test list (cannot be updated after clearing)
