@@ -1,2 +1,2 @@
-# https://github.com/ClashForIOS/karing
+# https://github.com/KaringX/karing
 
